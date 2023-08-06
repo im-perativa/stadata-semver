@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.0](https://github.com/im-perativa/stadata-semver/compare/v0.3.0...v1.0.0) (2023-08-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a breaking change
+
+### Features
+
+* add new breaking feature ([8d96d4c](https://github.com/im-perativa/stadata-semver/commit/8d96d4c91f95b34d64e5ab022030a23020f77b0a))
+
 ## [0.3.0](https://github.com/im-perativa/stadata-semver/compare/v0.2.1...v0.3.0) (2023-08-06)
 
 
