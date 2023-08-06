@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.0](https://github.com/im-perativa/stadata-semver/compare/v1.0.0...v1.1.0) (2023-08-06)
+
+
+### Features
+
+* add dummy feat ([02e757e](https://github.com/im-perativa/stadata-semver/commit/02e757ef8432023ac18dd862d49d3736f4bc9656))
+
+
+### Bug Fixes
+
+* add dummy fix ([7ef38ed](https://github.com/im-perativa/stadata-semver/commit/7ef38ed13bc2cb0d2c52d431e6f28b1eeb0c610e))
+
 ## [1.0.0](https://github.com/im-perativa/stadata-semver/compare/v0.3.0...v1.0.0) (2023-08-06)
 
 
